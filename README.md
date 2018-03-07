@@ -1,2 +1,0 @@
-# NovoRepositorio
-Meu novo repositório
